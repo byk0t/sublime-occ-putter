@@ -1,8 +1,9 @@
-#Oracle Commerce Cloud Design Code Utility package for Sublime Text 3
+# Oracle Commerce Cloud Design Code Utility package for Sublime Text 3
 
 1. Download Design Code Utility from Oracle
 
 2. Grab your project from OCC
+
 `dcu --grab --node $node_url --username $username --password $password`
 
 3. Create Sublime Text 3 project from the folder with grabbed source code
