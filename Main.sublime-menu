@@ -1,0 +1,15 @@
+[
+{
+    "id": "project",
+    "children": [
+        {
+            "caption": "Occ Put",
+            "children":
+            [                
+                { "command": "occ_put_init_settings", "caption": "Initialize settings" }
+            ]
+
+        }
+    ]
+}
+]

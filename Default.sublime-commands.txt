@@ -1,0 +1,8 @@
+[    
+    {
+        "caption": "occ put: Initialize settings",
+        "command": "occ_put_init_settings",
+        "args": {
+        }
+    }
+]
